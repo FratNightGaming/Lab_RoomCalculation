@@ -1,0 +1,13 @@
+/Users/Jake/Documents/Grand Circus/Labs/Room_Perimeter/Room_Calculator/bin/Debug/netcoreapp3.1/Room_Calculator.deps.json
+/Users/Jake/Documents/Grand Circus/Labs/Room_Perimeter/Room_Calculator/bin/Debug/netcoreapp3.1/Room_Calculator.runtimeconfig.json
+/Users/Jake/Documents/Grand Circus/Labs/Room_Perimeter/Room_Calculator/bin/Debug/netcoreapp3.1/Room_Calculator.runtimeconfig.dev.json
+/Users/Jake/Documents/Grand Circus/Labs/Room_Perimeter/Room_Calculator/bin/Debug/netcoreapp3.1/Room_Calculator.dll
+/Users/Jake/Documents/Grand Circus/Labs/Room_Perimeter/Room_Calculator/bin/Debug/netcoreapp3.1/Room_Calculator.pdb
+/Users/Jake/Documents/Grand Circus/Labs/Room_Perimeter/Room_Calculator/obj/Debug/netcoreapp3.1/Room_Calculator.csproj.AssemblyReference.cache
+/Users/Jake/Documents/Grand Circus/Labs/Room_Perimeter/Room_Calculator/obj/Debug/netcoreapp3.1/Room_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jake/Documents/Grand Circus/Labs/Room_Perimeter/Room_Calculator/obj/Debug/netcoreapp3.1/Room_Calculator.AssemblyInfoInputs.cache
+/Users/Jake/Documents/Grand Circus/Labs/Room_Perimeter/Room_Calculator/obj/Debug/netcoreapp3.1/Room_Calculator.AssemblyInfo.cs
+/Users/Jake/Documents/Grand Circus/Labs/Room_Perimeter/Room_Calculator/obj/Debug/netcoreapp3.1/Room_Calculator.csproj.CoreCompileInputs.cache
+/Users/Jake/Documents/Grand Circus/Labs/Room_Perimeter/Room_Calculator/obj/Debug/netcoreapp3.1/Room_Calculator.dll
+/Users/Jake/Documents/Grand Circus/Labs/Room_Perimeter/Room_Calculator/obj/Debug/netcoreapp3.1/Room_Calculator.pdb
+/Users/Jake/Documents/Grand Circus/Labs/Room_Perimeter/Room_Calculator/obj/Debug/netcoreapp3.1/Room_Calculator.genruntimeconfig.cache
